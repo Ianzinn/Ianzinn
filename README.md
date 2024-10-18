@@ -2,6 +2,8 @@
 ### Olá!! Eu sou o Ian Pedro 👋
 
 [![Social](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ianzinx7_/profilecard/?igsh=ZDR5Nm1zbTl2cXlh)
+[![Social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ian-pedro-barbosa-160105251/)
+
 
 ![Ianzinn GitHub stats](https://github-readme-stats.vercel.app/api?username=Ianzinn&show_icons=true&theme=dark)
 
