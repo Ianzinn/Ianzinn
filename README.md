@@ -8,27 +8,25 @@
 ![Ianzinn GitHub stats](https://github-readme-stats.vercel.app/api?username=Ianzinn&show_icons=true&theme=dark)
 
 ## Tecnologias que uso no meu dia 
-
 <div style= "display: inline_block"><br/>
-  📚 F r a m e w o r k s
-  <br/>
-  <br/>
-  <img align="center" alr="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" /> 
-  <br/>
-  <br/>
-  📋 L a n g u a g e s
-  <br/>
-  <br/>
-  <img align="center" alr="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-  <img align="center" alr="Htm5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img align="center" alr="Css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <br/>
-  <br/>
-  👩‍💻 I D E
-  <br/>
-  <br/>
-  <img align="center" alr="Vscode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
- 
-</div><br/>
+<h2>Frameworks</h2>
+<div>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40"/>
+</div>
+
+<h2>Linguagens</h2>
+<div>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="Dart" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+</div>
+
+<h2>IDE</h2>
+<div>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40"/>
+</div>
+</div>
+
+
 
 ####  Sou Ian Pedro, tenho 18 anos e estou cursando o segundo semestre de Ciência da Computação na UNA. Atualmente, estou aprofundando meus estudos em Flutter, com o objetivo de me especializar no desenvolvimento de aplicativos mobile. Tenho paixão por tecnologia e estou sempre em busca de novos desafios e aprendizados no mundo da programação.
