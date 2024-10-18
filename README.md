@@ -8,7 +8,7 @@
 ![Ianzinn GitHub stats](https://github-readme-stats.vercel.app/api?username=Ianzinn&show_icons=true&theme=dark)
 
 ## Tecnologias que uso no meu dia 
-<div style= "display: inline_block"><br/>
+<div style= "display: inline_block">
 <h2>Frameworks</h2>
 <div>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40"/>
