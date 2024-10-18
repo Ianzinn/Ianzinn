@@ -5,7 +5,6 @@
 
 ![Ianzinn GitHub stats](https://github-readme-stats.vercel.app/api?username=Ianzinn&show_icons=true&theme=dark)
 
-
 ## Tecnologias que uso no meu dia 
 
 <div style= "display: inline_block"><br/>
