@@ -5,7 +5,6 @@
 
 ![Ianzinn GitHub stats](https://github-readme-stats.vercel.app/api?username=Ianzinn&show_icons=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ianzinn&layout=compact)
 
 ## Tecnologias que uso no meu dia 
 
