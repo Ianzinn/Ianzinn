@@ -1,9 +1,7 @@
-
 ### Olá!! Eu sou o Ian Pedro 👋
 
-[![Social](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ianzinx7_/profilecard/?igsh=ZDR5Nm1zbTl2cXlh)
-[![Social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ian-pedro-barbosa-160105251/)
-
+[<img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="40" height="40"/>](https://www.instagram.com/ianzinx7_/profilecard/?igsh=ZDR5Nm1zbTl2cXlh)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>](https://www.linkedin.com/in/ian-pedro-barbosa-160105251/) 
 
 ![Ianzinn GitHub stats](https://github-readme-stats.vercel.app/api?username=Ianzinn&show_icons=true&theme=dark)
 
@@ -26,7 +24,5 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40"/>
 </div>
 </div>
-
-
 
 ####  Sou Ian Pedro, tenho 18 anos e estou cursando o segundo semestre de Ciência da Computação na UNA. Atualmente, estou aprofundando meus estudos em Flutter, com o objetivo de me especializar no desenvolvimento de aplicativos mobile. Tenho paixão por tecnologia e estou sempre em busca de novos desafios e aprendizados no mundo da programação.
