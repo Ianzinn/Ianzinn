@@ -25,4 +25,4 @@
 </div>
 </div>
 
-####  Sou Ian Pedro, tenho 19 anos e estou cursando o segundo semestre de Ciência da Computação na UNA. Atualmente, estou aprofundando meus estudos em Flutter, com o objetivo de me especializar no desenvolvimento de aplicativos mobile. Tenho paixão por tecnologia e estou sempre em busca de novos desafios e aprendizados no mundo da programação.
+####  Sou Ian Pedro, tenho 19 anos e estou cursando o terceiro semestre de Ciência da Computação na UNA. Atualmente, estou aprofundando meus estudos em Flutter, com o objetivo de me especializar no desenvolvimento de aplicativos mobile. Tenho paixão por tecnologia e estou sempre em busca de novos desafios e aprendizados no mundo da programação.
