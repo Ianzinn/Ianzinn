@@ -1,7 +1,7 @@
 ### Olá!! Eu sou o Ian Pedro 👋
 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="40" height="40"/>](https://www.instagram.com/ianzinx7_/profilecard/?igsh=ZDR5Nm1zbTl2cXlh)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>](https://www.linkedin.com/in/ian-pedro-barbosa-160105251/) 
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>](www.linkedin.com/in/ian-pedro-barbosa-de-santana-8a81ab307) 
 
 ![Ianzinn GitHub stats](https://github-readme-stats.vercel.app/api?username=Ianzinn&show_icons=true&theme=dark)
 
