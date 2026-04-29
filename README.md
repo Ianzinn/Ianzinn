@@ -16,7 +16,7 @@
 
 ### 👨‍💻 Sobre mim
 
-- 🎓 Cursando **Ciência da Computação** na UNA — 4º semestre
+- 🎓 Cursando **Ciência da Computação** na UNA — 5º semestre
 - 📱 Focado em **desenvolvimento mobile com Flutter & Dart**
 - 🚀 Objetivo: me tornar especialista em apps mobile
 - 💡 Sempre buscando novos desafios e aprendizados
