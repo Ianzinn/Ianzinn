@@ -51,27 +51,6 @@
 
 ---
 
-### 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Ianzinn&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ianzinn&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Ianzinn&theme=tokyonight&hide_border=true&locale=pt_BR" />
-</div>
-
----
-
-### 🏆 Troféus
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ianzinn&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
-
----
-
 <p align="center">
   <i>"Código bom é aquele que resolve o problema — código ótimo é aquele que o próximo dev consegue entender."</i>
 </p>
